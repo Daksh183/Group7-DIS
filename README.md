@@ -1,5 +1,9 @@
 # 🚀 AstroWar — Browser-Based Space Shooter
 
+> ⚡ You can run this project locally using the **Live Server extension in VS Code** for the best experience (required for camera features).
+
+## 🌌 About AstroWar
+
 AstroWar is a fast-paced space shooter that runs entirely in the browser using **plain HTML, CSS, and JavaScript**.
 
 You control an astronaut spaceship and survive waves of asteroids and alien enemies while collecting power-ups and coins.
@@ -110,23 +114,20 @@ src/
 
 ## ⚡ How to Run Locally
 
-No setup required.
-
 1. Clone the repo
 ```
 git clone https://github.com/your-username/astrowar.git
 cd astrowar
 ```
 
-2. Open `index.html` in your browser
+2. Open the project in **VS Code**
 
-### Important (for camera features)
-Run using:
-- VS Code Live Server  
-- or `localhost`  
-- or HTTPS  
+3. Install the **Live Server extension**
 
-Example:
+4. Right-click `index.html` → **"Open with Live Server"**
+
+### Alternative
+You can also run:
 ```
 npx serve
 ```
@@ -157,12 +158,6 @@ npx serve
 
 ---
 
-## 📸 Screenshots
-
-(Add screenshots or GIFs here)
-
----
-
 ## 🤝 Contributing
 
 1. Fork the repo  
@@ -177,11 +172,5 @@ npx serve
 - Daksh  
 - Lakshay  
 - Tanish  
-
----
-
-## 📜 License
-
-MIT License  
 
 ---
