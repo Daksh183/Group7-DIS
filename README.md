@@ -1,14 +1,5 @@
 # 🚀 AstroWar — Browser-Based Space Shooter
 
-[![Live Demo](https://img.shields.io/badge/Play-Live%20Demo-00ffcc?style=for-the-badge&logo=netlify)](https://dtlg7.netlify.app)  
-![Built With](https://img.shields.io/badge/Built%20With-Vanilla%20JS-ffdd57?style=for-the-badge&logo=javascript)  
-![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)  
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
-
----
-
-## 🌌 About AstroWar
-
 AstroWar is a fast-paced space shooter that runs entirely in the browser using **plain HTML, CSS, and JavaScript**.
 
 You control an astronaut spaceship and survive waves of asteroids and alien enemies while collecting power-ups and coins.
